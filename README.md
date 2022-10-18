@@ -10,3 +10,5 @@
 ## Project on: https://effulgent-dolphin-49920d.netlify.app/
 
 ![preview img](/preview.png)
+
+- In this project i have one problem I can't get device info and pass it to the website, but the javascript is aligned. sad
